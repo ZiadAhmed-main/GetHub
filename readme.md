@@ -5,7 +5,11 @@
 * JavaScript
 *  HTML
 *   CSS
-GitHub API
+* GitHub API
+  
+![Screenshot 2023-10-02 at 2 26 20 AM](https://github.com/ZiadAhmed-main/GetHub/assets/110579421/34e47b00-2ff6-4e8e-9baa-1c9a47ae52a1)
+
+
 ### Installation
 * Clone the repository: git clone https://github.com/your-username/github-clone.git
 * Navigate to the project directory: cd github-clone
@@ -15,3 +19,4 @@ On the homepage, enter the name of a GitHub repository or user in the search bar
 Click the "Search" button or press Enter to retrieve the results.
 View the search results and click on a repository or user to see more details.
 Explore the different sections of the website, such as repository details, user profile, and repository list.
+
