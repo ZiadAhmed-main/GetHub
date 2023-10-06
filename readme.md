@@ -11,8 +11,8 @@
 
 
 ### Installation
-* Clone the repository: git clone https://github.com/your-username/github-clone.git
-* Navigate to the project directory: cd github-clone
+* Clone the repository: git clone https://github.com/your-username/GetHub.git
+* Navigate to the project directory: cd GetHub
 * Open the index.html file in your preferred web browser.
 ### Usage
 On the homepage, enter the name of a GitHub repository or user in the search bar.
